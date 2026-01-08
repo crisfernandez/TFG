@@ -1,6 +1,6 @@
 # Trabajo de Fin de Grafo
 
-Cristina Fernández Gómez - cristina.fgomez@alumnos.upm.es
+Cristina Fernández Gómez - cristina.fgomez@alumnos.upm.es \\
 Escuela Técnica Superior de Ingenieros Informáticos
 Universidad Politécnica de Madrid
 
