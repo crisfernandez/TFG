@@ -1,4 +1,4 @@
-# Trabajo de Fin de Grafo
+# Trabajo de Fin de Grado
 
 Cristina Fernández Gómez - cristina.fgomez@alumnos.upm.es 
 
