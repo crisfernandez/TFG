@@ -26,5 +26,5 @@ Scripts específicos para la generación de figuras de la memoria:
 * **f1-score**: Gráficas en las que se observa la evolución del f1-score durante la etapa de entrenamiento.
 * **balanceo_clases**: Visualización de la distribución de muestras.
 
-### 5. Requeriments
+### 5. Requirements
   Las dependencias necesarias para ejecutar el proyecto.
