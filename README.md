@@ -15,7 +15,7 @@ Contiene los artefactos generados tras el entrenamiento:
 * **`.json`**: Historial de entrenamiento (Loss y Accuracy).
 
 ### 2. `/Predicciones`
-* **`xlsx`**: Resultados de las predicciones sobre el conjunto de test para cada participante.
+* **`.xlsx`**: Resultados de las predicciones sobre el conjunto de test para cada participante.
 
 ### 3. `/scripts`
 * **`.ipynb`**: Cuadernos de Jupyter individuales por participante.
