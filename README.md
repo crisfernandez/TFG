@@ -25,6 +25,7 @@ Scripts específicos para la generación de figuras de la memoria:
 * **oversampling_pesos**: Gráficas que muestran del impacto de las técnicas de oversampling y pesos ponderados.
 * **f1-score**: Gráficas en las que se observa la evolución del f1-score durante la etapa de entrenamiento.
 * **balanceo_clases**: Visualización de la distribución de muestras.
+* **seleccion_caracteristicas**: Visualización del impacto de las técnicas de selección de características.
 
 ### 5. Requirements
   Las dependencias necesarias para ejecutar el proyecto.
