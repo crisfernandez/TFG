@@ -7,7 +7,7 @@ Escuela Técnica Superior de Ingenieros Informáticos
 Universidad Politécnica de Madrid
 
 Dentro de este proyecto llamado 'EEG e Inteligencia Artificial para el Análisis de Respuestas Cerebrales a la Confianza' encontramos diversos ficheros:
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 ### 1. `/models`
 Contiene los artefactos generados tras el entrenamiento:
 * **`.pt`**: Pesos del modelo y estado del optimizador.
